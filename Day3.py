@@ -1,6 +1,17 @@
 
-# Día 3. Proyecto Isla del Tesoro
+# Día 3. Isla del Tesoro
 # https://ascii.co.uk/art 
+
+# Nuestra misión es encontrar el tesoro
+
+# Estas en una encrucijada ¿hacia dónde quieres ir izquierda o derecha
+# Si eliges izquierda llegas a un lago donde hay una isla en medio de todo el lago
+# Si escribes wait esperas un barco, si escribes swim, cruzas nadando 
+# Si esperaste llegas a la isla ileso encuentras una casa con 3 puertas una roja, una amarilla y una azul elige una
+
+# El rojo es una habitación llena de fuego
+# El amarillo es donde se encuentra el tesoro 
+# El azul esta llena de cocodrilos
 
 print('''
 *******************************************************************************
@@ -41,7 +52,7 @@ if choice1 == "izquierda":
         elif choice3 == 'amarilla':
             print("Encontraste el tesoro. ¡Ganaste!")
         elif choice3 == 'azul':
-            print("Entras en una sala de bestias ¡Fin del juego!")
+            print("Entras en una sala llena de cocodrilos ¡Fin del juego!")
         else: 
             print("Eliges una puerta que no existe ¡Fin del juego!")
     else:

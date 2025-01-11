@@ -1,5 +1,8 @@
 
-# Día 4. Proyecto Piedra, Papel y Tijera
+# Día 4. Juego Piedra, Papel, Tijera
+
+# Pregunta al usuario su elección: 0 = piedra 1 = papel 2 = tijera 
+# El ordenador elige de forma aleatoria 
 
 import random
 

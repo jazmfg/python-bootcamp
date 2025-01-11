@@ -1,5 +1,10 @@
 
-# Día 2. Tip Calculator
+# Día 2. Calculadora de propinas 
+
+# Pide el total de la factura 
+# Pregunta que porcentaje de propina queremos dar 10, 12 0 15%
+# Pregunta entre cuántas personas quieres repartir la cuenta
+# Muestra cuanto debe pagar cada persona
 
 print("¡Bienvenido a la calculadora de propinas!")
 
