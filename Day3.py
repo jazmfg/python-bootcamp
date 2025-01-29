@@ -1,17 +1,10 @@
-
-# Día 3. Isla del Tesoro
-# https://ascii.co.uk/art 
-
-# Nuestra misión es encontrar el tesoro
+# Día 3. Isla del Tesoro: https://ascii.co.uk/art Nuestra misión es encontrar el tesoro
 
 # Estas en una encrucijada ¿hacia dónde quieres ir izquierda o derecha
-# Si eliges izquierda llegas a un lago donde hay una isla en medio de todo el lago
+# Si eliges izquierda llegas a un lago donde hay una isla en medio de todo
 # Si escribes wait esperas un barco, si escribes swim, cruzas nadando 
 # Si esperaste llegas a la isla ileso encuentras una casa con 3 puertas una roja, una amarilla y una azul elige una
-
-# El rojo es una habitación llena de fuego
-# El amarillo es donde se encuentra el tesoro 
-# El azul esta llena de cocodrilos
+# El rojo es una habitación llena de fuego, el amarillo es donde se encuentra el tesoro, el azul esta llena de cocodrilos
 
 print('''
 *******************************************************************************

@@ -1,9 +1,4 @@
-
-# Día 1. Generador de nombres para grupos de música 
-
-# Pregunta el nombre de la ciudad en la que creciste
-# Pregunta el nombre de tu mascota 
-# Con esos datos genera un nombre
+# Día 1. Generador de nombres: Pregunta el nombre de la ciudad en la que crecio y el nombre de su mascota
 
 print("¡Bienvenido al generador de nombres de bandas!")
 
